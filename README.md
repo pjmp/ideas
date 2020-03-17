@@ -15,7 +15,7 @@ Rust lang:
   Eg: with https://www.themoviedb.org/documentation/api
 - [ ] simple http server
 - [ ] process info & killer with [skim](https://github.com/lotabout/skim).
-- cli frontend for commandlinefu.com
+- [ ] cli frontend for commandlinefu.com
 
   Eg: https://www.commandlinefu.com/site/api 
     
