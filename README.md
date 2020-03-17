@@ -14,6 +14,7 @@ Rust lang:
   
   Eg: with https://www.themoviedb.org/documentation/api
 - [ ] simple http server
+- [ ] process info & killer with [skim](https://github.com/lotabout/skim).
 
 Vim/NeoVim
 - [ ] Live preview vim colorschemes
