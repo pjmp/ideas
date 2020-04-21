@@ -23,4 +23,4 @@ Random ideas for apps and tools, take what you want.
 
 Vim/NeoVim
 - [ ] Live preview vim colorschemes
-> Eg: `echo colcors | <fzf,rg,ag> | set color`
+  > Eg: `echo colcors | <fzf,rg,ag> | set color`
