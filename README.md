@@ -8,10 +8,14 @@ Random ideas for apps and tools, take what you want.
 - [ ] password generator/encryption/storage
 - [ ] GitHub/gitlab (others) repo tree view
   > Eg: a web extension for browsers with wasm
+
 - [ ] Media information (fuzzy search)
   > Eg: with https://www.themoviedb.org/documentation/api
+
 - [ ] simple http server
-- [ ] process info & killer with [skim](https://github.com/lotabout/skim).
+- [x] process info & killer with [skim](https://github.com/lotabout/skim).
+  > DONE: https://github.com/pjmp/ikill
+
 - [ ] cli frontend for commandlinefu.com
   > Eg: https://www.commandlinefu.com/site/api 
   >  
