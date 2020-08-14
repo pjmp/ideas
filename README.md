@@ -28,3 +28,5 @@ Random ideas for apps and tools, take what you want.
 Vim/NeoVim
 - [ ] Live preview vim colorschemes
   > Eg: `echo colcors | <fzf,rg,ag> | set color`
+
+- [ ] javascript repl in rust with [rusty_v8](https://docs.rs/rusty_v8/)
