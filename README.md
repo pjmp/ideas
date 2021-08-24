@@ -2,6 +2,7 @@
 Random ideas for apps and tools, take what you want.
 
 - [ ] todo.txt
+- [ ] like dmenu but with GTK (checkout command pallet from https://github.com/zoeyfyi/Boop-GTK) 
 - [ ] nodejs version manager
 - [ ] disk analyzer utility
 - [ ] Neofetch clone
@@ -29,4 +30,4 @@ Vim/NeoVim
 - [ ] Live preview vim colorschemes
   > Eg: `echo colcors | <fzf,rg,ag> | set color`
 
-- [ ] javascript repl in rust with [rusty_v8](https://docs.rs/rusty_v8/)
+- [ ] javascript repl in rust with [rusty_v8](https://docs.rs/rusty_v8/) 
