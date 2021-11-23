@@ -17,9 +17,11 @@ Random ideas for apps and tools, take what you want.
 - [x] process info & killer with [skim](https://github.com/lotabout/skim).
   > DONE: https://github.com/pjmp/ikill
 
-- [ ] cli frontend for commandlinefu.com
-  > Eg: https://www.commandlinefu.com/site/api 
-  >  
+- [x] cli frontend for commandlinefu.com
+  > DONE: https://github.com/pjmp/commandlinefu
+
+
+  > Eg: https://www.commandlinefu.com/site/api  
   >  Remember to use https instead of http
   >  ```bash
   >  # get top tips
